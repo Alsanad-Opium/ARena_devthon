@@ -8,3 +8,6 @@ and run the
 
 and then 
 ` npm run dev`
+
+
+This website uses 3d model and Gemini Api to teach students in a interactive way and generates quizes
